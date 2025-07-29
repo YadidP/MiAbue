@@ -31,26 +31,22 @@
 2. **Abrir el proyecto en Android Studio**
 
 Abre Android Studio y ve a File > Open.
-
 Selecciona la carpeta del proyecto MiAbue.
 
 3. **Sincronizar Gradle**
 
 Android Studio lo hace automáticamente.
-
 Si no, haz clic en Sync Project with Gradle Files.
 
 4. **Configurar dispositivo para pruebas**
 
 Emulador:
 Ve a Tools > Device Manager y crea un dispositivo virtual.
-
 Dispositivo físico:
 Activa “Opciones de desarrollador” y “Depuración USB”. Conecta tu celular.
 
 5. **Ejecutar la aplicación**
 
 Elige el dispositivo en la barra superior.
-
 Haz clic en ▶️ Run 'app'.
 
