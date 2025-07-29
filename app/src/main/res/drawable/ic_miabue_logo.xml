@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="60dp"
+    android:viewportWidth="60"
+    android:viewportHeight="60">
+
+    <path
+        android:fillColor="@color/primary_orange"
+        android:pathData="M30,30m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0"/>
+
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M30,45c-8.28,0 -15,-6.72 -15,-15s6.72,-15 15,-15s15,6.72 15,15S38.28,45 30,45z"/>
+
+    <path
+        android:fillColor="@color/text_primary"
+        android:pathData="M26,26m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"/>
+    <path
+        android:fillColor="@color/text_primary"
+        android:pathData="M34,26m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"/>
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="@color/text_primary"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M24,32c2,3 4,4 6,4s4,-1 6,-4"/>
+
+    <path
+        android:fillColor="@color/text_secondary"
+        android:pathData="M20,20c0,-2 2,-4 4,-4s4,2 4,4c0,0 2,-2 4,-2s4,2 4,2c0,-2 2,-4 4,-4s4,2 4,4"/>
+
+    <path
+        android:fillColor="@color/accent_coral"
+        android:pathData="M10,50c-2,-8 5,-15 10,-12c3,2 7,1 10,3c3,2 7,1 10,3c5,3 12,-4 10,12c-1,8 -8,6 -20,6S11,58 10,50z"
+        android:fillAlpha="0.8"/>
+
+</vector>

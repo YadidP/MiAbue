@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MiAbue</string>
+
+    <!-- Pantalla principal -->
+    <string name="welcome_message">¡Hola! ¿Cómo está hoy?</string>
+    <string name="daily_routine">Su rutina de hoy</string>
+
+    <!-- Botones principales -->
+    <string name="register_treatment">Registrar Tratamiento</string>
+    <string name="my_medications">Mis Medicamentos</string>
+    <string name="emergency_button">EMERGENCIA</string>
+
+    <!-- Tratamientos -->
+    <string name="treatment_name">Nombre del medicamento</string>
+    <string name="treatment_dose">Dosis</string>
+    <string name="treatment_frequency">Frecuencia (horas)</string>
+    <string name="treatment_start_time">Hora de inicio</string>
+    <string name="save_treatment">Guardar Tratamiento</string>
+
+    <!-- Medicamentos -->
+    <string name="take_medication">Tomar Medicamento</string>
+    <string name="medication_taken">Medicamento tomado</string>
+    <string name="next_dose">Próxima dosis:</string>
+
+    <!-- Emergencia -->
+    <string name="emergency_activated">Emergencia activada</string>
+    <string name="calling_emergency">Llamando contacto de emergencia...</string>
+    <string name="emergency_contact">Contacto de emergencia</string>
+
+    <!-- Notificaciones -->
+    <string name="medication_reminder_title">Recordatorio de medicamento</string>
+    <string name="medication_reminder_text">Es hora de tomar su medicamento: %s</string>
+
+    <!-- Mensajes -->
+    <string name="enter_medication_name">Ingrese el nombre del medicamento</string>
+    <string name="enter_dose">Ingrese la dosis</string>
+    <string name="treatment_saved_success">Tratamiento guardado correctamente</string>
+    <string name="error_saving_treatment">Error al guardar el tratamiento</string>
+</resources>
